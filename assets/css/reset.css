@@ -1,0 +1,16 @@
+@import url('style.css');
+
+
+form{
+    width: 80%;
+    min-height: 150px;
+    margin:auto;
+    margin-top: 30px;
+}
+
+.reset h3 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}

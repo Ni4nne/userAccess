@@ -1,0 +1,20 @@
+@import url('style.css');
+
+form{
+    width: 80%;
+    min-height: 400px;
+    margin:auto;
+    margin-top: 30px;
+}
+
+.registre {
+    background: #e6e8ea;
+    border-radius: 5px;
+}
+
+.registre h3 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}

@@ -1,0 +1,52 @@
+/* Estils Generals */
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif, Helvetica, Arial;
+    text-decoration: none;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0px;
+}
+
+form{
+    width: 80%;
+    min-height: 200px;
+    margin:auto;
+    margin-top: 30px;
+}
+
+.login,
+.update,
+.reset {
+    background: #e6e8ea;
+    border-radius: 5px;
+    width: 600px;
+}
+
+.login h3,
+.update h3 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+.login a, .registre a {
+    font-size: 14px;
+    text-decoration: none;
+}
+
+#passHelp {
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.btn {
+    margin-top: 25px;
+}

@@ -1,0 +1,52 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+/* Estils Generals */
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif, Helvetica, Arial;
+    text-decoration: none;
+}
+
+.navbar {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav {
+    margin-right: auto; 
+}
+
+.navbar a{
+    font-size: 15px;
+}
+
+.container {
+    text-align: center; 
+    margin-top: 10px;
+}
+
+.container h3 {
+    font-size: 15px;
+}
+
+.logout {
+    margin-left: auto; 
+}
+
+.logout a{
+    text-decoration: none;
+}
+
+form{
+    width: 40%;
+    margin:auto;
+    margin-top: 30px;
+}
+
+#passHelp {
+    font-size: 12px;
+    margin-left: 150px;
+}
