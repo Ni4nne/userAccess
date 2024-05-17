@@ -22,3 +22,5 @@ Key Features:
 - Integration with different development frameworks.
 
 It provides a reliable solution for user authentication in web applications, prioritizing data security and ease of use. <br>
+
+<p align="center"><img src="https://img.shields.io/badge/STATUS-FINISHED-green"></p>
